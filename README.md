@@ -13,12 +13,12 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Video](images/video.mp4)
-
 Training with websocket, the [Java_Websocket](https://github.com/TooTallNate/Java-WebSocket) library was used, javafx was also used.
 * Java 8
 * org.java-websocket:Java-WebSocket:1.5.4
 * JavaFX
+
+![Video](images/img_1.png)
 
 
 
